@@ -8,7 +8,7 @@ import { useState } from "react"
 const foodItems = [
   {
     id: 1,
-    title: 'Lasagna Bolognesa',
+    title: 'Lasagna Bolognese',
     price: '15.95',
     imgSrc: Lasagna,
     imageURL: Lasagna,
