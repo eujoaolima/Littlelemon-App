@@ -28,7 +28,7 @@ export const data = [
     {
         id: 4,
         title: 'Spaghetti',
-        desc: "Spaghetti Bolognesa",
+        desc: "Spaghetti Bolognese",
         price: '12.25',
         imgSrc: Spaghetti
     },
