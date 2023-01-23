@@ -1,0 +1,13 @@
+import { Categories } from "../../../utils/categories"
+const CategoryCards = () => {
+    let category = Categories[Math.floor(Math.random() * Categories.length)];
+  return (
+    <div className="bg-yellow-500 min-h-[9rem] p-10 rounded-lg">
+        {/* Category card */}
+        
+    </div>
+  )
+}
+
+export default CategoryCards
+
