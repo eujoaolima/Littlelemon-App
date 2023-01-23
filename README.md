@@ -1,4 +1,4 @@
-# Littlelemon-App Restaurant App
+# Little Lemon Restaurant App
 
 ## STACK USED
 - ReactJS (Typescript)
